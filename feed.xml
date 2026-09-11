@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
-<meta name="title" content="Privacy Policy">
-<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="title" content="Privacy Policy ">
+<meta name="DC.title" lang="en" content="Privacy Policy ">
 <meta name="description" content="">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -17,467 +17,108 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style type="text/css">
-<style type="text/css">
-  .v04cbc531bd3480f43f5f6e1f6a1e5e00{
-font-size: 2rem !important;
+<style type="text/css"> 
+.nav-item{
+margin-top: 10.3px;
+margin-bottom: 9.5px;
+padding-left: 7.2px;
+padding-right: 7.5px;
 }
-.c1fb8edead30528fa0a18956128fa4506 p,.c1fb8edead30528fa0a18956128fa4506 a,.c1fb8edead30528fa0a18956128fa4506 span,.c1fb8edead30528fa0a18956128fa4506 label{
-font-size:16px!important;
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #ad97ff,#ff5962);
+display: inline-block;
 }
-.xc1e7bba1a38133311c5a21493457cc41{
-width: 100%;
-max-height: 720px;
-object-fit: cover;
-object-position: center;
-display: block;
-max-height: 100%;
-max-width: 100%;
-margin: auto;
-position: absolute;
-top: 0;
-left: 0;
-right: 0;
+.t8ab6a91cb7d20fee6ff5e070ffe47ee7:hover{
+background-size: 100% 100%!important;
+color:#ffffff!important;
+background:#ffc658!important;
+background-repeat: no-repeat!important;
+background-position: 0 90%!important; 
+transition: background-size 0.2s ease-in!important;
 }
-.y3335aada2a04a2383ad1e3a527a8693e{
-background:#ffffff;
-}
-.e9d0b4d9170d4fa7c8d3f2ad88d705920 *{
-color: white !important;
-}
-body{
-color: #343434;background-color:#ffffff!important
-}
-a:hover{
-color:#ffffff;background:#ffc658!important;
-}
-.c1fb8edead30528fa0a18956128fa4506 a,.y3335aada2a04a2383ad1e3a527a8693e a{
-color:#020202!important;
-text-decoration: underline !important;
-}
-.u04df7f58a71bc64d050b9e732f0f8ba3{
-color: #444444;
-}
-.t5ceb6cdc1c8d95196b08445c050d7e6c{
-font-size:16px!important;
-color: #707070;
-}
-.c7ee3980ec57e4675090e4c8760c4646b .card .card-header{
-cursor: pointer;
-padding: 1.75rem 2rem;  
-display: -webkit-box;
-display: -ms-flexbox;
-display: flex;
--webkit-box-align: center;
--ms-flex-align: center;
--ms-grid-row-align: center;
-align-items: center;
--webkit-box-pack: justify;
--ms-flex-pack: justify;
-justify-content: space-between;
-}
-a{
-text-decoration: none;
-}
-.u5ab7292b9e90f047817e389d875de2a2{
-position: relative;
-z-index: 1;
-}
-.d3f8ceabe3ff586e6499df81878d6afdb:hover,.y1896369cfde05523c4f157162b94b162:hover{
-background-size: 100% 100% !important;
-background: #ffc658!important;
-background-repeat: no-repeat !important;
-background-position: 0 90% !important;
-transition: background-size 0.2s ease-in !important;
-}
-iframe{
-border: none!important;
-}
-.yb39e3e1e155c2692d696c620d5d6d945{
-color: #adadad;
-font-size: 20.3px;
-margin-bottom: 20.5px;
-}
-.a6ede5affa19e0b5f7b4f76c3f8f71aa0{
-text-decoration: underline!important;color:#56b95a!important
-}
-.y4a795b08fb65cece78332fe2b87d0571{
-transition: all 0.3s; 
-}
-.y3335aada2a04a2383ad1e3a527a8693e a{
-font-size:16px;
-}
-.c7ee3980ec57e4675090e4c8760c4646b .card{
-position: relative;
-z-index: 1;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
-margin-bottom: 1.5rem;
-}
-.c7ee3980ec57e4675090e4c8760c4646b{
-position: relative;
-z-index: 1;
-}
-.navbar-toggler span{
-display: flex;
-align-items: center;
-color:white;
-justify-content: center;
-border: 1px solid lightgrey;
-border-radius: 3px;
-}
-.c7ee3980ec57e4675090e4c8760c4646b .card .card-body p:last-child{
-margin-bottom: 0;
-}
-.y0d85233c06a93fb277797ca1da5a9246{
-font-size: 20.5px;
-font-weight: bold;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 .x4dc572247536998cfa0687e487a57602 *{
-color:#000000;
-}
-.c7ee3980ec57e4675090e4c8760c4646b .card:last-child{
-margin-bottom: 0;
-}
-.fe7d25a6b795abb3ec4371a5bcb32fe35{
-font-size: 14.2px;
-}
-.c7ee3980ec57e4675090e4c8760c4646b .card .card-header span{
-font-size: 1.5rem;
-}
-.t22dae89d1c364fdd6f134fa4b174587c i:hover{
-background: white;
-color: #ffffff;!important;
-line-height: 35px;
-border-radius: 50%;
-width: 37.1px;
+.b3d05f7a5f83e268b2eb369b866d79de0{
+background: rgba(0,0,0,0.6);
 text-align: center;
-height: 37.3px;
 }
-.fdd2c0d436c558c34b61bf6dc57779712 .row-item.x062ca976bd7ad45249d70d1ef2e4d343{
-background: #f3f1ed;
-}
-.x4dc572247536998cfa0687e487a57602{
-background:#ffffff!important ;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 h4{
-font-size:24px!important;
+.display-2{
+font-size: 45.4px;
 }
 .nav-link{
-color: #000000;
-
-}
-.fdd2c0d436c558c34b61bf6dc57779712 .x062ca976bd7ad45249d70d1ef2e4d343 *{
-color:#000000;
-}
-.df8458611d0eb471cf07ca4fcafb30cf0{
-max-height: 300px;
-overflow-y: auto;
-}
-.y1896369cfde05523c4f157162b94b162{
-font-weight: inherit;
-background-image: linear-gradient(120deg, #ffd365 0%, #ffd769 100%);
-background-repeat: no-repeat;
-background-size: 100% 30%;
-background-position: 0 90%;
-transition: background-size 0.2s ease-in;
-}
-.t22dae89d1c364fdd6f134fa4b174587c i{
-border-radius: 50%;
-width: 37.1px;
-line-height: 35px;
-text-align: center;
-height: 36.7px;
-}
-footer a{
-color:#ffffff;
-text-decoration: underline;
+color: #000000 !important;
 }
 footer *{
-font-size:16px !important;
+font-size:16px!important;
+color:#ffffff!important;
+line-height: 1.5;
 }
-.e9d0b4d9170d4fa7c8d3f2ad88d705920{
-background: rgba(0, 0, 0, 0.6);
-text-align: center;
+.de21a0152d728a5b84a4018e7587bdef4{
+text-decoration: underline!important;
 }
-.navbar{
-background: black;padding-top:3px;padding-bottom:3px;position:fixed;top:0;width:100%;z-index:10000
+.wf87835f8055366598c95139d34cce924{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
 }
-.c7ee3980ec57e4675090e4c8760c4646b .card .card-header .collapsed span{
--webkit-transform: rotate(-180deg);
-transform: rotate(-180deg);
-}
-.c7ee3980ec57e4675090e4c8760c4646b .card .card-header .collapsed{
-color: #090c59;
+li a{
+color: #ff5c65;
 }
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.fdd2c0d436c558c34b61bf6dc57779712 .y8cf883ba9ac523629e83f5c54d393a07{
-background:#c1bebe!important;
+a{
+text-decoration: none!important;
 }
-.c7ee3980ec57e4675090e4c8760c4646b .card .card-body{
-padding: 1.75rem 2rem;
-background:#ffffff;
+.bc6e9f538b64efbdbff839cc7d1c460f0 i{
+border-radius: 50%;
+width: 10mm;
+text-align: center;
+line-height: 37px;
+height: 10mm;
 }
-.fdd2c0d436c558c34b61bf6dc57779712 .x37085dfcf6b56752b0e98b42f21d7653{
-margin-bottom: 1.5rem;
+.bc6e9f538b64efbdbff839cc7d1c460f0 i:hover{
+background: black;
+color:#ffd5d9;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
 }
-.fdd2c0d436c558c34b61bf6dc57779712 .a16d2fc5a936de8e9c53bf8ab913abc99 *{
-color:#000000;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 .x062ca976bd7ad45249d70d1ef2e4d343{
-background:#eae8e4!important ;
-}
-.zae548a26d53fadb17b3fb788ffb3211b{
-position: relative;
-min-height: 600px;
-}
-.x1f325918bb84238aa1b831e8a6d9aaf1{
-font-size:45px!important;
-}
-.nav-item{
-padding-left:7.8px;
-padding-right:8px;
-padding-top:5.4px;
-padding-bottom:5.4px;
-}
-.u35fe5465bf5a61bb73766a8819f3eb8d{
-font-size: 45px!important;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 .row-item.y8cf883ba9ac523629e83f5c54d393a07{
-background: #cbc8c8;
+ul{
+list-style: circle;
 }
 .navbar a{
-font-size: 15.2px!important;text-decoration: none;text-transform:uppercase;
-font-weight: bold;
+font-size: 17.6px;
 }
-.y3335aada2a04a2383ad1e3a527a8693e p,.y3335aada2a04a2383ad1e3a527a8693e span,.y3335aada2a04a2383ad1e3a527a8693e label{
-font-size:16px!important;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 p,.{special_content1_class} a,.fdd2c0d436c558c34b61bf6dc57779712 label{
-font-size:16px!important;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 .row-item.x4dc572247536998cfa0687e487a57602{
-background: #cfecf2;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 .card-img{
-margin-bottom: 1.7rem;
-text-align: left;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 .row-item.a16d2fc5a936de8e9c53bf8ab913abc99{
-background: #fdeae8;
-}
-.e6103b47196bc05795999a6f13decba27{
-background-color: #050505;
-font-size: 30px;
-height: 55.5px;
-min-width: 56px;
-padding: 0.7rem;
-padding-top: 12.9px;
-color: #fff !important;
-border: 1px solid #0d0d0d;
-border-radius: 50%;
-}
-html{
-scroll-behavior: smooth;
-}
-.fdd2c0d436c558c34b61bf6dc57779712 .a16d2fc5a936de8e9c53bf8ab913abc99{
-background:#eddad8!important;
-}
-.x062ca976bd7ad45249d70d1ef2e4d343 *{
-color:#000000;
+.align-self-stretch{
+ms-flex-item-align: stretch!important;
+align-self: stretch!important;
 }
 footer{
-background:#0f0f0f;
-color:#ffffff;
+padding-top:60px;
+padding-bottom:59.8px;
 }
-.fdd2c0d436c558c34b61bf6dc57779712 .y8cf883ba9ac523629e83f5c54d393a07 *{
-color:#000000;
+.bc6e9f538b64efbdbff839cc7d1c460f0{
+font-size:20.5px;
+padding:10.3px;
+color: black;
+}
+footer a{
+color:  #ffffff!important;
+text-decoration: underline!important;
 }
 .btn-md{
-padding: 15.1px 30px;
+padding:15px 29.8px;
 border-radius: 0;
 }
-.c1fb8edead30528fa0a18956128fa4506{
-background:#ffffff;
-color:#020202;
+.b3d05f7a5f83e268b2eb369b866d79de0 *{
+color:white!important;
 }
-.fdd2c0d436c558c34b61bf6dc57779712 .row-item{
-padding: 3rem;
-padding-top: 3.7rem;
-height: 100%;
+footer ul{
+padding-left: 0px!important;
+list-style: none;
 }
-.fdd2c0d436c558c34b61bf6dc57779712 .x4dc572247536998cfa0687e487a57602{
-background:#bcd9df!important;
-}
-.y4a795b08fb65cece78332fe2b87d0571:hover{
-box-shadow: 0 50.3px 50.3px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
- </style>
-<style type="text/css"> 
-   .parallax-background {
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    min-height: 500px; /* Adjust as needed */
-    width: 100%;
-    overflow: hidden;
-
-    border-radius: 20px;
-}
-
-
-.parallax-content {
-    background-color: rgba(255, 255, 255, 0.6);
-    padding:20px 40px;
-    margin: 50px auto; /* Creates space for parallax effect */
-    max-width: 80%;
-    border-radius: 5px;
-    position: relative;
-    z-index: 2;
-}
-@media only screen and (max-width:1000px) {
-.zae548a26d53fadb17b3fb788ffb3211b img{
-position: initial!important;
-}
-.zae548a26d53fadb17b3fb788ffb3211b {
-  min-height: auto;
-}
-.x1f325918bb84238aa1b831e8a6d9aaf1 {
-font-size: 20px;
-}
-.yb39e3e1e155c2692d696c620d5d6d945 {
-font-size: 15px !important;
-}
-.tc8331f751b710f6ce96b40622fa921df{
-padding-bottom: 0px !important;
-}
-} 
-.content-image-below {
-    margin: 20px 0;
-    text-align: center;
-}
-.image-align-left ol,.image-align-left ul{
-  margin-left: 51%;
-}
- 
-/* For background image */
-.content-with-bg-image {
-    background-size: cover;
-    background-position: center;
-    padding: 40px;
-    position: relative;
-}
-
-.content-over-bg {
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 20px;
-    border-radius: 5px;
-}
-.content-image-below img,.content-with-side-images img,{
-  max-height: 500px!important;
-
-}
- 
- 
-
-/* Text container */
-.text-container {
-    flex: 0 0 60%;
-    max-width: 60%;
-    padding: 0 1rem;
-}
- 
-
- /* Main content container */
-.content-with-side-images {
-    width: 100%;
-    max-width: 100%;
-}
-
-/* Headers should always be full width */
-.content-with-side-images h4 {
-    width: 100%;
-    clear: both;
-    margin-top: 2em;
-    margin-bottom: 1em;
-}
-
-/* Regular paragraphs should be full width by default */
-.content-with-side-images p {
-    width: 100%;
-    margin-bottom: 1em;
-}
-
-/* Image-text pair container */
-.image-text-pair {
-    width: 100%;
-    margin:  0px 0;
-   
-}
-
-/* Image container - floated */
-.image-container {
-    width: 50%;
-    
-    box-sizing: border-box;
- 
-}
-.image-container img:hover{
-
-box-shadow: 0 49.6px 50.3px -25px rgb(0 0 0 / 30%);
-    transform: rotate(-2deg) scale(1.03);
-}
-.image-container img{
-transition: all 0.3s;
-}
-
-/* Left-aligned image */
-.image-align-left .image-container {
-    float: left;
-    margin-right: 20px;
-    margin-left: 0;
-    padding-right: 40px;
-}
-
-/* Right-aligned image */
-.image-align-right .image-container {
-    float: right;
-    margin-left: 20px;
-    margin-right: 0;
-
-    padding-left: 40px;
-}
-
-.image-container img {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
- 
-
-/* Clearfix */
-.clearfix {
-    clear: both;
-}
-
-/* Responsive behavior */
-@media (max-width: 768px) {
-    .image-container {
-        width: 100%;
-        float: none !important;
-        margin: 0 0 20px 0 !important;
-        padding: 0;
-    }
-    
-    .text-flow {
-        display: block;
-    }
-} 
-  
 .dropdown-submenu {
     position: relative;
 }
@@ -568,16 +209,7 @@ transition: all 0.3s;
         box-shadow: none;
     }
 }
-.accordion .card{
-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-}
 
-.accordion .card-header{
-background: white;
-}
-.accordion h4{
-  font-size: 1.3rem;
-}
 /* Use hover only where it exists */
 @media (hover:hover) {
   .dropdown-submenu:hover > .dropdown-menu { display:block; }
@@ -601,55 +233,38 @@ background: white;
     max-height: 60vh;          /* scroll if long */
     overflow-y: auto;
   }
-}
-a{
-  color: black;
-  text-decoration: underline;
-}
-.tag,h3,h2 {
-  background-color: #000;
-  color: #fff!important; 
-  padding-left: 8px;
-  padding-right: 8px;
-  text-align: center;
- width: fit-content;
-
- margin-left: auto;
- margin-right: auto;
- margin-bottom: 20px;
- }
-
+} 
 </style>
 </head>
 <body>
 <nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
+<a class="navbar-brand" href="index.html"  >
+
+<img alt="" src="img/logo.jpg"  ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="navbar-nav w-100 justify-content-around align-items-center d-flex"><li class="nav-item">
-<a class="nav-link d3f8ceabe3ff586e6499df81878d6afdb" href="index.html" >ofertas de autos nuevos</a>
-</li>
-<li class="nav-item">
-<a class="nav-link d3f8ceabe3ff586e6499df81878d6afdb" href="autos-nuevos-en-mexico.html" >autos nuevos en México</a>
-</li>
-<li class="nav-item">
-<a class="d3f8ceabe3ff586e6499df81878d6afdb nav-link" href="agencias-de-autos.html" >agencias de autos</a>
-</li>
-<li class="nav-item">
-<a class="nav-link d3f8ceabe3ff586e6499df81878d6afdb" href="autos-hibridos.html" >autos híbridos</a>
-</li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle d3f8ceabe3ff586e6499df81878d6afdb" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Más</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="autos-chinos.html"  >autos chinos</a><a class="dropdown-item" href="autos-nuevos-sin-enganche.html"  >autos nuevos sin enganche</a><a class="dropdown-item" href="autos-nuevos-con-enganche-bajo.html"  >autos nuevos con enganche bajo</a><a class="dropdown-item" href="comparador-de-autos.html"  >comparador de autos</a><a class="dropdown-item" href="marcas-de-autos.html"  >marcas de autos</a><a class="dropdown-item" href="autos-nuevos.html"  >autos nuevos</a></div>
-</li>
+<span class="navbar-toggler-icon fa fa-bars"></span>
+</button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="navbar-nav ml-auto align-items-center">
+<li class="nav-item"><a class="nav-link t8ab6a91cb7d20fee6ff5e070ffe47ee7" href="index.html" >autos nuevos por precio</a></li>
+<li class="nav-item"><a class="nav-link t8ab6a91cb7d20fee6ff5e070ffe47ee7" href="autos-nuevos-por-segmento.html"  >autos nuevos por segmento</a></li>
+<li class="nav-item"><a class="nav-link t8ab6a91cb7d20fee6ff5e070ffe47ee7"  href="autos-nuevos-por-marca.html"  >autos nuevos por marca</a></li>
+<li class="nav-item"><a class="nav-link t8ab6a91cb7d20fee6ff5e070ffe47ee7" href="autos-nuevos-por-modelo.html"  >autos nuevos por modelo</a></li>
+<li class="nav-item dropdown"><a class="t8ab6a91cb7d20fee6ff5e070ffe47ee7 nav-link  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Más</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="comprar-auto-nuevo.html"  >comprar auto nuevo</a>
+<a class="dropdown-item" href="autos-nuevos-disponibles-en-mexico.html"  >autos nuevos disponibles en México</a>
+<a class="dropdown-item" href="mejores-autos-nuevos.html"  >mejores autos nuevos</a>
+<a class="dropdown-item" href="autos-nuevos-disponibles.html"  >autos nuevos disponibles</a>
+<a class="dropdown-item" href="autos-nuevos-por-categoria.html"  >autos nuevos por categoría</a>
+<a class="dropdown-item" href="mejores-autos-nuevos-mexico.html"  >mejores autos nuevos México</a>
+</div></li>
 </ul>
 </div>
 </nav>
-<section class="container" style="min-height: 80vh; margin-top: 100px;">
+<div>
+<section class="container">
 <h1>Privacy Policy for </h1>
 <p>At  one of our main priorities is the privacy of our visitors.
- This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
+This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 <p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in . This policy is not applicable to any information collected offline or via channels other than this website. </p>
 <h2>Consent</h2>
@@ -708,20 +323,23 @@ This website is owned and published by:
 </br>
 </p>
 </section>
+</div> 
 <footer>
-<div class="container pt-5 py-4" >
-<div class="row"><div class="col-lg-3"><p><a class="d3f8ceabe3ff586e6499df81878d6afdb" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="d3f8ceabe3ff586e6499df81878d6afdb" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-</p>
-</div><div class="col-lg-3">
-<div>
-<p>Síguenos</p>
-<a href="https://www.facebook.com/profile.php?id=61572466055361" class="facebook t22dae89d1c364fdd6f134fa4b174587c" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<div class="container">
+<div class="align-center row justify-content-center"> 
+<div class="col-md-3">
+<ul>
+<li><a class="t8ab6a91cb7d20fee6ff5e070ffe47ee7" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="t8ab6a91cb7d20fee6ff5e070ffe47ee7" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li></ul></div></div><div class="col-md-3">
+<h3 class="font-weight-bold d992e34ea171a4d1a192bc65b92cb5e2c">Connect</h3>
+<hr>
+<div class="social"><p class="sub">Síguenos</p>
+<a href="https://www.facebook.com/profile.php?id=61572466055361" class="bc6e9f538b64efbdbff839cc7d1c460f0 facebook"  rel="nofollow"><i class="fa fa-facebook"></i></a>
 </div>
 </div></div>
+<hr>
 </div>
-</footer>
-<script type="text/javascript">
+</footer><script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
@@ -782,5 +400,6 @@ dropdownMenu.addEventListener('click', handleClick);
   });
 })();
 </script>
+</footer>
 </body>
 </html>
